@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1768149101,
+	"version": 1770043118,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -59,6 +59,7 @@
 		"images/choic-sheet0.png",
 		"images/choic-sheet1.png",
 		"images/clickbox-sheet0.png",
+		"images/f_btn-sheet0.png",
 		"media/pop-39222.m4a",
 		"media/pop-39222.ogg",
 		"icon-16.png",
